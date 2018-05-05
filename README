@@ -1,1 +1,12 @@
+Django Server:
+
 https://docs.djangoproject.com/en/2.0/intro/tutorial01/
+
+
+Start server:
+
+python3 manage.py runserver
+
+Urls map:
+
+The Django server name is: 'jokes_jokes' and any api should be under that dir inside 'urls.py'
