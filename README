@@ -10,3 +10,9 @@ python3 manage.py runserver
 Urls map:
 
 The Django server name is: 'jokes_jokes' and any api should be under that dir inside 'urls.py'
+
+
+May 23th:
+i) POST/GET rest api with Header and Body -> dynamic html for example
+ii) work with heritage -> packages for each api
+iii) docker
