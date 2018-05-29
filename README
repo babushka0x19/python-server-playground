@@ -16,3 +16,6 @@ May 23th:
 i) POST/GET rest api with Header and Body -> dynamic html for example
 ii) work with inheritance -> packages for each api
 iii) docker
+
+May 28th:
+added some more apis, made sure to inherit and think OOP. used some GET that gets param
